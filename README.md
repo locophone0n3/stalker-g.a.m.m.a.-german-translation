@@ -5,6 +5,7 @@ Translation of Stalker Anomaly (G.A.M.M.A) into German
 Versionen und changelogs hier: 
 
 28.10.2026: 0.64NEW
+
 31.10.2026: 0.65NEW - diverse Verbesserungen in Text und Art, finaler Modname Änderung(Stalker GAMMA GT) 
 
 Stalker G.A.M.M.A. und diverse Mods, darunter...
