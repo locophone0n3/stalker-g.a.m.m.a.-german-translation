@@ -1,5 +1,5 @@
 # stalker-g.a.m.m.a.-german-translation
-Translation of Stalker Anomaly (G.A.M.M.A) into German
+Translation of Stalker Anomaly (G.A.M.M.A.) into German
 Übersetzung in Deutsch: Stalker Gamma GT versions
 
 Versionen und changelogs hier: 
