@@ -6,7 +6,9 @@ Versionen und changelogs hier:
 
 28.10.2026: 0.64NEW
 
-31.10.2026: 0.65NEW - diverse Verbesserungen in Text und Art, finaler Modname Änderung(Stalker GAMMA GT) 
+31.10.2026: 0.65NEW - diverse Verbesserungen in Text und Art, finaler Modname (Stalker GAMMA GT)
+
+17.11.2026: 0.66NEW - Verbesserungen Text / Umlaute, weitere Mods übersetzt
 
 Stalker G.A.M.M.A. und diverse Mods, darunter...
 
