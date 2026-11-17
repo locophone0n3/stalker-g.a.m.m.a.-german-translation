@@ -10,6 +10,8 @@ Versionen und changelogs hier:
 
 Stalker G.A.M.M.A. und diverse Mods, darunter...
 
-Blades of the Zone, Burn Shit, Campfire Autosave, Data's New Cigarettes, Dynamic_Grass, dynamic_viewmodel, LastSurvivor, Lootboxes_Diamond_Edition, Looting_takes_time_REDUX, Minor Meds, Monolith Prisoners, MoreNotesAndDocuments, NotSoperators Drinks Compendium, painterofthezone, PDA_Hacking, Persistent_Weather_-_by_Priler, R1_Echo_Zone_Ambient, R1_Fast_Travel_Camera, R1_Instant_Photo, R1_Recon_Drone, S2 Wormhole, Seamless_Inventory_Sort, Scary Fairy Tales, StrayCompanions, Tagged_Patches, Universal Tactical Light Framework, Zippo_Lighter uvm...
+Blades of the Zone, Burn Shit, Campfire Autosave, Data's New Cigarettes, DrPepper, Dynamic_Grass, dynamic_viewmodel, FlyingInsectFauna, Havok_Valueable_Collectibles_Halloween_Expansion, IRADC_Atmospherics Dynamic Clouds, IRADER_Atmospherics Dust e Rainbows, IRNVL Night Vision Lens, LastSurvivor, Lootboxes_Diamond_Edition, Looting_takes_time_REDUX_by_Priler, Minor Meds, Monolith Prisoners, Monoliths Mercy, MoreNotesAndDocuments, NotSoperators Drinks Compendium, Painter of the Zone, PDA_Hacking, Persistent_Weather_by_Priler, R1_Doom, R1_Echo_Zone_Ambient, R1_Fast_Travel_Camera, R1_HUDless_Watches, R1_Instant_Photo, R1_Recon_Drone, Seamless_Inventory_Sort, SoulCrystal_The_Uzi_Family, STALKER_intro, StrayCompanions, Tagged_Patches, The warmth of the fire, Universal Tactical Light Framework, VCS S2 Wormhole, VCS Scary Fairy Tales, Zippo_Lighter 
+
+...weitere Mods folgen...
 
 zu 88% fertig
